@@ -32,4 +32,4 @@ To configure Sublime Text to use the theme:
 ## SublimeText 2 User!! Note!!
 
 ### To make it work in ST2
-*You have to run the python script `theme3to2.py` in the theme folder before you actually use the theme. There is slight difference between the themes for the 2 versions of ST.*
+*You have to run the python script `theme3to2.py` in the theme folder before you actually use the theme. There is slight difference between the themes for the 2 versions of ST. You will have to deleted theme3to2.py afterwards, otherwise ST will consider it as a plugin.*
