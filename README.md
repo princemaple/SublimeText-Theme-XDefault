@@ -8,12 +8,12 @@ Theme for [Sublime Text](http://www.sublimetext.com/). Intended to make default 
 
 Go to your Sublime Text `Packages` directory and clone the theme repository using the command below:
 
-    git clone https://github.com/princemaple/SublimeText-Theme-XDefault "Theme - PrM"
+    git clone https://github.com/princemaple/SublimeText-Theme-XDefault "Theme - XDefault"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - PrM`
+* Unzip the files and rename the folder to `Theme - XDefault`
 * Copy the folder to your Sublime Text `Packages` directory
 
 ## Activating the theme
@@ -21,15 +21,15 @@ Go to your Sublime Text `Packages` directory and clone the theme repository usin
 To configure Sublime Text to use the theme:
 
 * Open your User Settings Preferences file `Sublime Text X -> Preferences -> Settings - User` where X can be 2 or 3
-* Add (or update) your theme entry to be `"theme": "PrM.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "XDefault.sublime-theme"`
 
 ### Example User Settings
 
     {
-        "theme": "PrM.sublime-theme"
+        "theme": "XDefault.sublime-theme"
     }
 
 ## SublimeText 2 User!! Note!!
 
 ### To make it work in ST2
-*You have to run the python script `theme3to2.py` in the theme folder before you actually use the theme. There is slight difference between the themes for the 2 versions of ST. You will have to deleted theme3to2.py afterwards, otherwise ST will consider it as a plugin.*
+*You have to run the python script [`theme3to2.py`](https://raw.github.com/princemaple/workspace/master/theme3to2.py) in the theme folder before you actually use the theme. There is slight difference between the themes for the 2 versions of ST. You will have to deleted theme3to2.py afterwards, otherwise ST will consider it as a plugin.*
