@@ -1,3 +1,8 @@
+## Update
+### 4-4-2013
+1. updated for dev 3023  
+2. updated theme3to2.py, bug fix
+
 ## Theme Info
 
 Theme for [Sublime Text](http://www.sublimetext.com/). Intended to make default theme better. Actual work modified from [Night](https://github.com/mishu91/sublime-text-theme-Night).
