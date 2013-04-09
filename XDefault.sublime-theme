@@ -351,11 +351,6 @@
     },
     {
         "class": "sidebar_label",
-        "attributes": ["transient"],
-        "font.italic": true
-    },
-    {
-        "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "color": [80, 160, 200],
         "font.bold": true
