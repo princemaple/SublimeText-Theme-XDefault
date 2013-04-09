@@ -292,14 +292,13 @@
         "class": "tree_row",
         "attributes": ["selected"],
         "layer0.opacity": 0.8
-        // TODO: fix selected row color & shadow
     },
     {
         "class": "close_button",
         "layer0.texture": "Theme - XDefault/file-close-selected.png",
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0,
-        "content_margin": [10, 10]
+        "content_margin": 10
     },
     {
         "class": "close_button",
@@ -322,7 +321,7 @@
     },
     {
         "class": "sidebar_tree",
-        "row_padding": [8, 3],
+        "row_padding": [8, 2],
         "indent": 12,
         "indent_offset": 17,
         "indent_top_level": false,
