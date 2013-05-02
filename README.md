@@ -1,4 +1,8 @@
 ## Update
+### 2-5-2013
+3031 added search bar drop down
+catched up
+
 ### 9-4-2013
 3024 doesn't add preivew file into the `OPEN FILES`	section in sidebar, so transient sidebar label is no longer needed.
 
