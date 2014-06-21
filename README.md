@@ -1,12 +1,16 @@
 ## Update
-### 2-5-2013
+
+> This theme has not been maintained, so don't try/use it.
+> I've been using Soda Dark 3 for a few months
+
+### 2-May-2013
 3031 added search bar drop down
 catched up
 
-### 9-4-2013
+### 9-April-2013
 3024 doesn't add preivew file into the `OPEN FILES`	section in sidebar, so transient sidebar label is no longer needed.
 
-### 4-4-2013
+### 4-April-2013
 1. updated for dev 3023
 2. updated theme3to2.py, bug fix
 
